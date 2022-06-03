@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto-Bold.ttf);
+    width: 700;
+  }
+  @font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto-Regular.ttf);
+    width: 400;
+  }
+  @font-face {
+    font-family: 'Cardo';
+    src: url(../fonts/Cardo-Bold.ttf);
+    width: 700;
+  }
+  @font-face {
+    font-family: 'Cardo';
+    src: url(../fonts/Cardo-Italic.ttf);
+    width: 400;
+  }
+
+
